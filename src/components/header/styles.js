@@ -24,6 +24,7 @@ const useStyles = makeStyles((theme) => {
     button: {
       color: theme.palette.green,
       borderColor: theme.palette.green,
+      border: `1px solid ${theme.palette.green}`,
       "&:hover": {
         color: theme.palette.blue,
       },

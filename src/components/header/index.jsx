@@ -44,11 +44,7 @@ function Header() {
               style={{ display: "flex", alignItems: "center" }}
             >
               <Button variant="outlined" className={classes.button}>
-                <a
-                  href="https://drive.google.com/file/d/1mTcL_PFvlxIF9c6t0rDtRZx91CI6day-/view?usp=sharing"
-                  target="_blank"
-                  style={{ textDecoration: "none" }}
-                >
+                <a href="" target="_blank" style={{ textDecoration: "none" }}>
                   CV
                 </a>
               </Button>
